@@ -32,3 +32,5 @@ setup(name="databricks-sdk",
           "Programming Language :: Python :: 3.10",
           "Programming Language :: Python :: 3.11",
           "Operating System :: OS Independent"])
+
+# Just wanted to update the code and make a few changes to it.
